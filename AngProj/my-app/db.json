@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "0260",
+      "fullName": "test",
+      "email": "test@test.com",
+      "password": "12"
+    },
+    {
+      "id": "ea5d",
+      "fullName": "Akshaya Prabhu",
+      "email": "yogiister@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3d2a",
+      "fullName": "aks",
+      "email": "aaa@gmil.com",
+      "password": "111"
+    }
+  ]
+}
